@@ -1,4 +1,5 @@
-Tables:
+Tables
+
 patients - Stores patient information
 
 doctors - Stores doctor information
@@ -9,7 +10,8 @@ departments - Clinic departments/specialties
 
 users - System users (doctors, admins)
 
-Relationships:
+Relationships
+
 One-to-Many: Doctor → Appointments
 
 One-to-Many: Patient → Appointments
